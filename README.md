@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Bruno Buss and I´m a self-taught web developer who is passionate about technology. Living in Portugal and actually looking for a challenge to improve my programming skills.
+My name is Bruno Buss and I´m a web developer who is passionate about technology. Living in Portugal and actually looking for a challenge to improve my programming skills.
 
 
 - 🔭 I’m currently looking for a job as a full-stack web developer
